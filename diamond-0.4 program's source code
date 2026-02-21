@@ -1,0 +1,428 @@
+rem 22:52 27/11/2025 - company's name : zoom business intelligence - founder : adam taraoui - moroccan id number : AB.64.52.76
+rem @echo off rem suppression of @echo off itself as a command in the cli(command-line-interface) bash/shell batch file on execution.
+rem program's name : diamond-0.4-cli-zoom_business_intel_adam_taraoui
+rem founder's fullname : Adam Taraoui
+rem founder's firstname : Adam
+rem founder's lastname : Taraoui
+rem founder's thirdname : - (None/Null)
+rem founder's date of birth : 01/01/1990
+rem founder's place of birth : casablanca
+rem founder's nationality : moroccan
+rem moroccan id number : AB.64.52.76
+rem founder's company's name : zoom business intelligence
+rem founder's company's website : https://azoom.ma
+rem patent style : gnu-gpg : 
+rem guard perimeter protect
+rem program's function : 
+rem secure environment
+rem structure/infrastructure diagram : 
+rem abstract to formal/explicit safe/secure clean/cleaning layout(s).
+rem example of parameters
+rem token(ascii:unicode 
+rem single character 
+rem (example of : 'a' or 'b' or '0', '1', (other characters sequences)) 
+rem or, from a unique signal 
+rem token transaction 
+rem or perimeter to guard 
+rem or multiple as chain/list/table(with multiple formules) 
+rem controls of a set or multiple sets of data structure 
+rem saved as a file a plaintext file extension (*.log) - (*.txt) - 
+rem (other kind or pattern of data storage file 
+rem or self created data structure file structure 
+rem and extension's name) or
+rem (if we may note information of each single character 
+rem or multiple characters described as a chain of characters
+rem example of a singular data as a singular character 
+rem like in ascii(American Standard Code for Information Interchange) 
+rem or unicode(universal character encoding standard that 
+rem assigns a unique number to every character, 
+rem no matter the platform or language, ensuring 
+rem consistent text processing and display across 
+rem devices a universal character encoding standard that assigns 
+rem a unique number to every character, symbol, 
+rem and emoji(an example of : a singular/unique pattern of a smiley.)') 
+rem or setting up (multiple sets of data change/evaluation-control/
+rem CRUD(creating-reading-update-deletion)/continuity)
+rem of a certain chain of data/datachain(s)
+rem environment based on a certain 
+rem evaluation/continuation/action-detection/automatisation level: 
+rem ###
+rem 1d x-as not equal to 0 contains a number but y = 0 
+rem as a singular vectorial 
+rem point of line as x and 2d with y-as 
+rem a square in mathematics - 
+rem example of x, y 
+rem in geometry taking 
+rem 'a' ascii-unicode as 
+rem an example letter, 
+rem it may be any letter else.
+rem ### x and  y example in geometry ###
+rem - in algebra and geometry 
+rem of computer science, 
+rem we begin from 0 
+rem and is described as an offset(an index) 
+rem evaluated and calculated from the interpreter, 
+rem compiler as a number, 
+rem an important example : a number's list 
+rem or table from 0 to 9 contains 10 numbers, 
+rem solution : 0 = offset(index)1, 
+rem 1 = offset(index)2, 2 = offset(index)3
+rem ..., 9 = offset(index)10, ...
+rem ##
+rem a canvas is a defined 
+rem or non-defined wide perimeter 
+rem and can contain multiple dimensions
+rem described as 1d(uni-dimensional -> ), 
+rem 2d(bi-dimensional) known in mathematics geometry x, y aces, 
+rem 3d/3 dimensional fixed drawing design/polygon 
+rem known in mathematics geometry x, y, z 
+rem aces(square with volume 
+rem -> implicate any shape with volume design 
+rem any shape/any polygon with volume),
+rem example of : a foot-ball design shape/polygon, 
+rem a tennis-ball design shape/polygon, 
+rem a basket ball design shape/polygon, 
+rem a house design shape/polygon. 
+rem 4d(4 dimensional is a moving 3d/3 
+rem dimensional drawing design/polygon,
+rem -> implicate the 3 dimensional 
+rem geometry aces (x,y,z) + beta, omega formule of
+rem the tangent (tangency) of the movement
+rem described today of the
+rem 3d drawing showing off design figure/shape/polygon, 
+rem example of a cartoon, from 2d/bi-dimensional 
+rem canvas as a paper, screen, 
+rem perimeter projection, 
+rem design shape/polygon movement)
+rem In a certain 2d/bi-dimensional canvas
+rem 'a' as a certain point defining a design shape/polygon
+rem 1d(uni-dimensional), 2d(bi-dimensional), 
+rem 3d(3 dimensional), 4d(4 dimensional)
+rem definition 2d(bi-dimensional) square canvas layout(s) :
+rem in a certain 2d(bi-mensional) canvas
+rem        y0(y=0)    y1(y=1)    y2(y=2)
+rem x0(x=0)a(x=0,y=0) a(x=0,y=1) a(x=0,y=2)
+rem x1(x=1)a(x=1,y=0) a(x=1,y=1) a(x=1,y=2)
+rem x2(x=2)a(x=2,y=0) a(x=0,y=0) a(x=2,y=2)
+rem ### example beginning 2d(bi-dimensional) 
+rem geometry, shape of square geometry x and y 
+rem in an empty square canvas and z = 0, 
+rem beta = 0, omega = 0
+rem a(x=0,y=0) 				  	
+rem        y0(y=0)    y1(y=1)    y2(y=2)
+rem x0(x=0)a(x=0,y=0) a(x=0,y=1) a(x=0,y=2)
+rem x1(x=1)a(x=1,y=0) a(x=1,y=1) a(x=1,y=2)
+rem x2(x=2)a(x=2,y=0) a(x=0,y=0) a(x=2,y=2)
+rem ### end of the example explanation '###'
+rem ###
+rem ### example beginning 3d(2d(bi-dimensional)+z(dimensional volume)) 
+rem geometry, shape of square geometry x, y and z
+rem in an empty square canvas
+rem a(x=0,y=0) 				     	'.'a(x=0,y=0,z=1) + z : z1(z=1)
+rem        y0(y=0)    y1(y=1)    y2(y=2)
+rem x0(x=0)a(x=0,y=0) a(x=0,y=1) a(x=0,y=2)
+rem x1(x=1)a(x=1,y=0) a(x=1,y=1) a(x=1,y=2)
+rem x2(x=2)a(x=2,y=0) a(x=0,y=0) a(x=2,y=2)
+rem ###
+rem 3d(3 dimensional geometry : x,y,z)
+rem ### end of the example explanation '###'
+rem ###
+rem 4d(4 dimensional geometry : 
+rem x,y,z(from 3d/3 dimensional geometry) + tangent 
+rem (sinus & cosinus) movement 
+rem of z (3d dimensional aces, z figure/layout)
+rem omega ace z, beta as a sum movement 
+rem variable or constant explicit 3d(3d dimensionsal -> 
+rem implicate 2d(bi-dimensional square layout(s) -> 
+rem abstract and formal example a drawed paint on a paper) 
+rem with z as volume)) : 
+rem as a float or decimal formule, (sinus/cosinus), 
+rem sinus divided by the cosinus as formule is tangent 
+rem +1 or -1 step appended 
+rem continuously or singular 
+rem for certain movement trangency movement) 
+rem -> implicates a screen video
+rem figure(s)/layout(s)- detail/caracteristic
+rem storing data storage in an example
+rem by selecting characters for the name 
+rem (*.(*) -> first asterisk, second asterisk implicates 
+rem a name of an extension defined 
+rem as a known extension data structure, 
+rem respecting same structure/infrastructure 
+rem to not get an error in the interpreter, 
+rem compiler, cli(command-line-interface)) 
+rem in our case windows bash/shell, 
+rem batch file (*.bat) -> implicate '.bat' as extension
+rem and choosing a data structure/infrastructure
+rem and a knowed extension's name
+rem of 1.(*.log), 2.(*.txt) extensions
+rem numbers 1 and 2
+rem 3.(*.mysql), 4.(*json) are made 
+rem number 3 and 4 known file extensions 
+rem -> implicate, they have already 
+rem a data structure/infrastructure 
+rem using another program respecting 
+rem the data structure/infrastructure
+rem will give no error on execution 
+rem level by the interpreter, 
+rem compiler of the program
+rem sensor for extern material needed 
+rem for extern use in a certain environment
+rem formal computer sensor as 
+rem an infrared sensor is like an oxygen 
+rem sensor include every sensor, 
+rem if used with fahrenheit as name 
+rem used as a the temperature 
+rem measurement unit's name
+rem as a name 
+rem of a unit of measurement 
+rem in certain countries and cities 
+rem for example 
+rem in : united kingdom, australia, hong-kong 
+rem and celsius as the same name 
+rem of the unit of measurement 
+rem described before fahrenheit 
+rem in other cities and countries
+rem in for example : morocco as country,
+rem and some other cities and countries worldwide.
+rem or cloud sensor : an infrared sensor 
+rem for example is every screen an infrared sensor, 
+rem projector is an infrared sensor
+rem 3d(3d dimensional + 2d dimensional) + 
+rem 4d movement tangent-cotangent
+rem example of heat in 4d canvas :
+rem best isolator material is diamond, 
+rem you may find it easily concatenating every 
+rem kind of perimeter in the air.
+rem isolates every piece having an usual 
+rem characteristic in comparison with other ones.
+rem formal example : forest fire, closing the air 
+rem perimeter of the fire by the air 
+rem -> the formule of the diamond in the air as 
+rem described before put out the fire in this perimeter 
+rem (-> controlling the perimeter 
+rem with the same equation 24 hour +, 
+rem for formal/explicit security of out of the fire).
+rem diamond formule in the air using a computer and 
+rem an infrared sensor to detect warm piece unusual 
+rem in the cosmos(the earth(continents, 
+rem cities, countries, oceans, seas, 
+rem furniture, rubber furniture, other kind of furniture, 
+rem diamond as an equation contains every material like rubber, 
+rem from diamond, we may transform the diamond to rubber
+rem and from rubber, we may transform 
+rem the diamond and the rubber to any raw material
+rem and from rubber every raw material 
+rem of beings(human beings, beings), infrastructure)).
+rem example : diamond is very cold, preserves the atoms 
+rem of every material without changing any formule
+rem never breaths(contains no oxygen) and may isolate, 
+rem secure the perimeter in the cosmos and certainly 
+rem the earth and other planets, those are described as air canvas, 
+rem by isolating the dynamic pieces causing already 
+rem a temperature issues, may cause it in the future
+rem (within a second, minute, year, decades).
+rem example : 4d dimensional canvas 
+rem of the planet earth and outside the cosmos
+rem in the windows bash/shell cli(command-line-interface)
+rem take a file (*.txt), (*.log) extension 
+rem as data for own data structure/infrastructure
+rem as data to crud(create-read-update-delete)
+rem and isolate the the unusual temperature
+rem example : diamond air equation (perimeter of air good concatenated, 
+rem concatenated untill no more extra cold 
+rem in comparison with the previous sequence of air. 
+rem x = 1,y = 1,z = 1 -> merging x,y,z gives a sum 3 
+rem with dynamic perimeter between the parameter 
+rem and empty x = 0,y = 0,z = 0) may isolate every 
+rem virus from the air and preventing it from propagation.
+rem example : beings cuffs, same equation of 
+rem diamond in the air by for example taking the same 
+rem perimeter of the air where the cuffs are dimensional, 
+rem present in the perimeter, taking a copy of the same air perimeter 
+rem on another perimeter where agressive beings, (for example : agressive dogs, 
+rem forest, oceans, seas beings) (or other kind of beings) 
+rem to protect ourselves and our alimentation beings 
+rem (cow, chicken, (other kind of alimentation beings)), 
+rem cuffs the beings for security(worldwide solution).
+rem example : canvas air can be used as any unit test perimeter in the air
+rem to continue searching for better handleware evaluations and equations 
+rem outside the real world perimeters for formal/explicit 
+rem security reasons and better use.
+rem example : extra fahrenheit, celsius on the earth 
+rem can be isolated by using 
+rem a cold fahrenheit, celsius on the point itself, 
+rem and his continuous neural network suite(s) 
+rem of heat described as extra fahrenheit, 
+rem celsius as unusual from the usual one. (example : heat above infrastructure 
+rem cities, countries, planets, cosmos)
+rem example : forest fire, atoms of fire in the cosmos 
+rem closing air on them by the diamond equation 
+rem and controlling the same perimeter and other perimeter continuously, 
+rem infinitely without stop, a program as a 
+rem server(continuous a computer working infinitely without stop).
+rem example : detecting the perimeter, 
+rem subscribing the data in a file data (*.txt), (*.log)
+rem setting it as a cold fahrenheit, celsius point(s) 
+rem in the perimeter will put out the fire, 
+rem and continuously controlling this perimeter.
+rem neural network paradigm : subscribing data in different files 
+rem searching always controlling makes data useful, 
+rem may be rendered for statistics, but the program has always 
+rem to be running as a server for formal/explicit use and summed up 
+rem without a choice of probability calculation, 
+rem the date and time is always going forward, weather 
+rem changes continuously a server always working with useful 
+rem instructions guidelines will be correct science, 
+rem a program based on secure and correct science, 
+rem learning every microsecond infinitely without stop.
+rem set chainVariable = "x(latitude) y(longitude) z(altitude) 
+rem w1(first characteristic : unicode chain) 
+rem w2(second characteristic: unicode chain)" 
+rem (or/multiple parameters/characteritics)
+rem :loop ### a program working continuously and infinitely, 
+rem by getting-setting crud(create-read-update-delete) ### goto :loop 
+rem program staying in the infinite loop.
+rem for security of cosmos.
+rem a single chain, array may contain 
+rem too much information about a perimeter
+rem can be stored in a data file, 
+rem than used as a neural network by multiple data files
+rem in an infinite loop.(program called server).
+rem example : 
+rem current clock program '27/11/2025 : 21:17:00'
+rem the program begins with @echo off without 
+rem 'rem' as a keyword for comments 
+rem described in of windows bash. 
+rem in the 'cli' the (command line interface) 
+rem windows bash/shell programs.
+rem an example of the current 
+rem date and time machine hardware clock, 
+rem if windows bash/shell cli(command-line-interface) 
+rem is present on the machinofxe (example : 
+rem of a computer with the operating system windows) 
+rem accessing it on windows (windows key+r) + 
+rem ('cmd' as three characters of the keyboard and press enter)
+rem for example the function : 'echo %date% and %time%' 
+rem (-> 'echo' to print out on the screen, 
+rem for example 'echo hello', will give 'hello' will give) 
+rem respecting the characters will give 
+rem the current date and time as a print without error
+rem ###
+rem ### current clock running continuously 
+rem ### program windows bash/shell cli(command-line-interface) source code
+rem :loop rem infinite loop method's keyword's name.
+rem echo press ctrl+c or ctrl+d to close the bash/shell batch file execution in the bash/shell prompt print code of the date and time cli(command line interface) or just close the window to close the windows bash/shell batch file execution and to stop the print of the date and time print function 'echo' cli(command-line-interface) executed, interpreted and compiled by the windows bash/shell command prompt : %date%-%time% rem a certain print as 'echo' command (program writes on screen command) of the date and time cli(command-line-interface) print function in the bash/shell batch file, (*.bat) -> implicate '*' any name of character, '.bat' as extension
+rem timeout /t 1 /nobreak rem a cli(command-line-interface) the program waits 1 time out second, /nobreak stands for without a break after each print continuously
+rem goto :loop rem starts the loop again described as ':loop' for infinite loop method's name's function.
+rem ###
+rem ### end of program source code
+rem we may include the last four lines 
+rem of windows bash/shell batch code 
+rem cli(command line interface) bash/shell 
+rem batch file execution '.bat' extension - 
+rem from :loop for an infinite loop method's keyword's name.
+rem ### finish of the cli(command-line-interface) 
+rem ### bash/shell batch file.
+rem ### current clock with the date and time
+rem (gmt - gmt : (greenwich mean time) - 
+rem utc(utc : coordinated universal time)) 
+rem printed out on every command prompt 
+rem of every computer working with 
+rem windows as operating system.
+rem formal solution repeated year and not repeated days
+rem leap year has 366 days and not leap year has 365 days,
+rem every(both leap year -> year %(modulus) 4 is equal to zero, 
+rem not leap year -> year %(modulus) 4 
+rem is not equal to zero) year has  
+rem leap not leap year (every leap year 
+rem in our case a date year 
+rem (gmt(greenwich mean time)-utc(coordinated universal time)) 
+rem can only be a leap or a not leap year, 
+rem a year %(modulus) 4 is equal to zero, 
+rem a not leap year is a year %(modulus) 4 is not equal to zero, 
+rem a leap year contains same days number 
+rem for each month only in february 29 days, 
+rem (a leap year : sum of days 366)
+rem a not leap year contains same days number 
+rem for each month only in february 28 days, 
+rem (a not leap year : sum of days 365)
+rem if described.
+rem -> implicates : (mathematics formule : 
+rem current year % 4 the operation evaluation 
+rem ('%' - remainder's character 
+rem on computer machines, advanced calculators 
+rem or normal calculators having this option, key)) :
+rem example of the current time 
+rem running using a program(software) 
+rem without using continuously the hardware(material) clock
+rem getting and stocking the hardware clock on a variable (*.log), 
+rem (*.txt) re-using it getting the data back from the file, 
+rem used as a data storage, using from startup registry key, 
+rem used by the cli(command-line-interface), to run out a higher 
+rem level correct than the hardware clock with 
+rem (if the problem is caused by a material 
+rem issue not solved by reinstalling the operating system, 
+rem in our case 'windows' - operating system).
+rem issues can be caused in the telecommunication of information
+rem money transfer transactions - bank transactions 
+rem (missing not working -> implicates issues),
+rem electronic mail(s)('mail' -> letter), 
+rem signal(s), request(s) 
+rem can be any important information 
+rem lost because of the date and time not correct 
+rem print of information telecommunication, 
+rem telecommunication protocols structure/infrastructure
+rem (handshake(s) - ackknowledge(s) - backknowledge(s)).
+rem date and time telecommunication 
+rem worldwide/local economy appointments 
+rem structure/infrastructure protocols 
+rem structure/infrastructure protocol.
+rem formal example : a clock repeated year
+rem get variable of the hardware
+rem stock it in an array
+rem store in a data file to get 
+rem it back as a utility data file
+rem array, chain of character 0,..,9,.. indexes/offsets
+rem in windows bash/shell 
+rem cli(command-line-interface) batch/batch file a simple 
+rem plaintext print
+rem set myVariable="Hello, World!"
+rem %myVariable:0,1% = 'h'
+rem %date%-%time% variable print, current date and time 
+rem on the screen with the 'echo' keyword may work 
+rem %date:0,2% number of days 
+rem '%date:0,2%' substring(-> chain of character, 
+rem character manipulation), 
+rem in this case beginning 
+rem from the offset/index 0 to the offset/index 2 included 
+rem -> means/implicates two character, 
+rem first one and the second one
+rem (-> implicates from the first character) as offset/index to
+rem (-> chain of character, character manipulation) 
+rem in the most programming languages of the computer as a keyword, 
+rem sometimes contains a method or function 
+rem dependent on the level 
+rem (-> high level, low level computer language) 
+rem of the programming 
+rem language depending on his interpreter, 
+rem compiler build in comparison with the machine language
+rem (-> implicates lower lever language from the computer) 
+rem to keep the date and time arranged manually 
+rem but working through a software automatically
+rem ### date and time paradigm solution, if through 
+rem telecommunication or hardware issue corrupted, not working well
+rem changing the day if 29, 28 of month february, 
+rem array manipulation - known also as substring manipulation - 
+rem string manipulation of the array - chain of character
+rem the other months of the year are keeping the same numbers
+rem leap year contains 366 days
+rem ever month february is going to 29 days, a not leap year
+rem contains 365 days, ever month february is going to 28 days
+rem the other months of the year are keeping the same numbers 
+rem with this software you may arrange your current 
+rem clock and every clock if possible
+rem with the telecommunication way(s)/protocol(s).
+rem using libraries/modules of printers you may arrange 
+rem the printer(s)(->a drawing paint on a paper) 
+rem for yourself or worldwide.
